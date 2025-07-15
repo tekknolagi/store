@@ -51,3 +51,5 @@ group :development, :test do
   gem 'brakeman', '~> 7', require: false
   gem 'pry-byebug'
 end
+
+gem "bootsnap"
