@@ -24,11 +24,11 @@ gem 'benchmark'
 gem 'reline'
 
 # Kafka
-gem 'ruby-kafka', '~> 1.5'
+# gem 'ruby-kafka', '~> 1.5'
 gem 'avro', '~> 1.9'
 gem 'avro_turf'
 gem 'extlz4', '~> 0.3.2', require: false
-gem 'karafka', '~> 2.2.7'
+# gem 'karafka', '~> 2.2.7'
 
 # Monitoring
 gem 'elastic-apm', '~> 4.7'
@@ -53,3 +53,6 @@ group :development, :test do
 end
 
 gem "bootsnap"
+gem "readline"
+gem 'sprockets-rails'
+gem 'sqlite3'
