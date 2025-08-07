@@ -6,7 +6,7 @@ ruby '3.5.0.dev'
 
 gem 'rails', '~> 8'
 
-gem 'pg', '~> 1.5', '>= 1.5.9'
+gem 'pg', '~> 1.6'
 
 gem 'puma', '~> 6.6'
 gem 'jbuilder', '~> 2.13'
