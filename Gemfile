@@ -44,7 +44,7 @@ gem 'concurrent-ruby'
 gem 'faraday', '~> 2.12.2'
 
 # Storages
-gem 'redis', '~> 5.3'
+gem 'redis', '~> 5.4'
 
 group :development, :test do
   gem 'bundler-audit', '~> 0.9.2'
