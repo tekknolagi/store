@@ -136,9 +136,9 @@ GEM
       pp (>= 0.6.0)
       rdoc (>= 4.0.0)
       reline (>= 0.4.2)
-    jbuilder (2.13.0)
-      actionview (>= 5.0.0)
-      activesupport (>= 5.0.0)
+    jbuilder (2.14.0)
+      actionview (>= 7.0.0)
+      activesupport (>= 7.0.0)
     json (2.12.2)
     llhttp-ffi (0.5.1)
       ffi-compiler (~> 1.0)
@@ -177,7 +177,7 @@ GEM
     net-smtp (0.5.1)
       net-protocol
     nio4r (2.7.4)
-    nokogiri (1.18.8)
+    nokogiri (1.18.9)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     observer (0.1.2)
@@ -307,7 +307,7 @@ DEPENDENCIES
   elastic-apm (~> 4.7)
   extlz4 (~> 0.3.2)
   faraday (~> 2.12.2)
-  jbuilder (~> 2.13)
+  jbuilder (~> 2.14)
   lograge
   mutex_m
   observer
