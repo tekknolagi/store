@@ -9,7 +9,7 @@ gem 'rails', '~> 8'
 gem 'pg', '~> 1.5', '>= 1.5.9'
 
 gem 'puma', '~> 6.6'
-gem 'jbuilder', '~> 2.13'
+gem 'jbuilder', '~> 2.14'
 
 gem 'oj', '~> 3.16'
 gem 'active_interaction', '~> 5.5'
