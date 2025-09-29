@@ -41,7 +41,7 @@ gem 'sentry-rails', '~> 5.22'
 
 gem 'concurrent-ruby'
 
-gem 'faraday', '~> 2.12.2'
+gem 'faraday', '~> 2.14.0'
 
 # Storages
 gem 'redis', '~> 5.3'
