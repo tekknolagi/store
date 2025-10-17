@@ -8,7 +8,7 @@ gem 'rails', '~> 8'
 
 gem 'pg', '~> 1.5', '>= 1.5.9'
 
-gem 'puma', '~> 6.6'
+gem 'puma', '~> 7.1'
 gem 'jbuilder', '~> 2.13'
 
 gem 'oj', '~> 3.16'
